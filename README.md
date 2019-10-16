@@ -8,7 +8,7 @@ Steve Moran
 
 ## Objetivo del repositorio
 
-*Clonar repositorio
-*Configurar cuenta de ususario local
-*Generar comits
-*Sincornizar repositorio local con remoto
+* Clonar repositorio
+* Configurar cuenta de ususario local
+* Generar commits
+* Sincornizar repositorio local con remoto
